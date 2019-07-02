@@ -1,6 +1,6 @@
 Pemula Belajar Ngoding dengan GitHub Repo
 >> HTML
->> JS
+>> Jquery <<
 >> NodeJS
 >> JSF
 >> Script Serverside PHP
