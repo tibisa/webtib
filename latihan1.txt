@@ -10,3 +10,5 @@ Pemula Belajar Ngoding dengan GitHub Repo
 
 >>test sublime
 >>tambahan lagi
+
+>>mahasiswa bebas edit file ini
